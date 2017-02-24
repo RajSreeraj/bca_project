@@ -1,0 +1,227 @@
+.login_form{
+    width: 250px;
+    height: 250px;
+    background-color: darkslategray;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top:200px;
+    border-radius: 10px;
+}
+input::-webkit-input-placeholder {
+    font-size: 18px;
+    line-height: 3;
+}
+.search_box{
+    float: left;
+    width: 550px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left:70px;
+    border-radius: 5px;
+    border-right: none;
+}
+.search_btn{
+    background-color:#e6e6e6 ; 
+    width: 100px;
+    height: 35px;
+    margin-top: 10px;
+    margin-left: -5px;
+    background-size: cover;
+   font-size: 20px;
+   
+    border-bottom-right-radius: 5px;
+}
+body{
+    background-color: #e6e6e6;
+}
+.reg_form{
+    width: 400px;
+    height: 500px;
+    background-color: darkslategray;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top:20px;
+    border-radius: 10px;
+}
+.date_box{
+    float: left;
+    width: 50%;
+    background: none;
+    margin-top: 15px;    
+    padding: 0px;
+    border-top:0px;
+    border-color: black;
+    border-right: 0px;
+    border-left: 0px;
+    font-size: 20px;
+    font-family: monospace;
+}
+.l_1{
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: monospace;
+    color: darkgray;
+    padding-left: 10px;
+    width: 40%;
+    float: left;
+}
+.l_2{
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: monospace;
+    color: darkgray;
+    width: 20%;
+    float: left;
+}
+.up_btn{
+    background: none;
+    cursor: pointer;
+    padding: 5px 30px;
+    outline: none;
+    border: none;
+    
+}
+.up_btn:active{
+    background-color: red;
+}
+.upload{
+    float: left;
+    margin-top: -30px;
+    margin-left: 300px;
+    margin-bottom: 5px;
+    width: 30px;
+    height: 35px;   
+}
+.logo{
+    float: left;
+    padding-left: 20px;
+    padding-top: 5px;
+    width: 100px;
+    height: 50px;
+}
+.logo_div{
+    float: left;
+    width: 100px;
+    height: 50px;
+}
+.gen_select{
+    margin-top: 20px;
+    width: 20%;
+    float: left;
+    font-family: monospace;
+    color: darkgray;
+background: none;
+border: 0px;
+}
+.h_1{
+    font-size: 22px;
+    font-family: monospace;
+    margin: 0px;
+    padding-left: 70px;
+    padding-top: 20px;
+    padding-bottom:11px;
+}
+.h_reg{
+     font-size: 22px;
+    font-family: monospace;
+    margin: 0px;
+    padding-left: 90px;
+    padding-top: 30px;
+    padding-bottom:11px;
+}
+.f_pass{
+    margin: 0px;
+    float: left;
+    padding-left:35px; 
+    padding-top:18px;
+    padding-bottom:0px;
+    width: 20px;
+    height:20px;
+}
+.h_4{
+    float: left;
+    font-size:14px;
+    margin: 0px;
+    font-family: monospace;
+    padding-left: 15px; 
+    padding-top:25px;
+    padding-bottom: 0px;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.nav{
+    width: 100%;
+    height: 60px;
+    background-color:white;
+}
+.player{
+    float: left;
+    margin : 10px;
+    margin-left: 30px;
+    background-color: white;
+    width: 850px;    
+    height: 500px;
+}
+.right_box{
+    float: left;
+margin-top: 10px;    
+    background-color: white;
+    width: 425px;
+    height: 500px;
+margin-right: 30px;    
+}
+.bottam_menu{
+    float: left;
+    width: 100%;
+    height:82px;
+    background-color:white;
+}
+.reg_txtbox{
+    background: none;
+    margin-top: 15px;
+    width: 100%;
+    padding: 0px;
+    border-top:0px;
+    border-color: black;
+    border-right: 0px;
+    border-left: 0px;
+    font-size: 20px;
+    font-family: monospace;
+}
+.log_button{
+    margin-top: 35px;
+    width: 49.2%;
+    border: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: darkgray;
+    font-family: monospace;
+    font-size: 16px;
+    padding: 0px;
+}
+.reg_button{
+    margin-top: 35px;
+    width: 49.5%;
+    border: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: darkgray;
+    font-family: monospace;
+    font-size: 16px;
+    padding: 0px;
+}
+.under_construction{
+    margin: 0px;
+    float: left;
+    padding-left:300px; 
+    padding-top:70px;
+    padding-bottom: 0px;
+
+}
+link{
+    color: #009999;   
+}
